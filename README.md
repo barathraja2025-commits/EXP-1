@@ -53,8 +53,9 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
-
+ ![image](https://github.com/barathraja2025-commits/EXP-1/blob/main/WhatsApp%20Image%202026-03-26%20at%209.11.54%20AM%20(1).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-1/blob/main/WhatsApp%20Image%202026-03-26%20at%209.11.54%20AM%20(2).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-1/blob/main/WhatsApp%20Image%202026-03-26%20at%209.11.54%20AM.jpeg)
 
 b.  KCL:
 
